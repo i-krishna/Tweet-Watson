@@ -1,0 +1,11 @@
+applications:
+- services:
+  - mt-watson
+  - lang-watson
+  host: TranslateTweets
+  name: TranslateTweets
+  path: translate.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 256M
+
