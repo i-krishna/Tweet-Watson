@@ -1,4 +1,4 @@
-Read SDD doc & Final presentation.pdf to understand about Tweet watson application. This application demonstrates how to use Watson Machine Translation and Language Identification services (powered by WebSphere Liberty) and deploy it on Bluemix.
+Read [SDD doc](/Solution%20design%20document.pdf) & [Presentation](/Final_Presentation%20_v1.3_final.pdf). This Tweet watson application demonstrates how to use Watson Machine Translation and Language Identification services (powered by WebSphere Liberty) and deploy it on Bluemix.
 
 The Tweet watson application contains the following contents:
     
